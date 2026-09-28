@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "X Dev",
+    "description": "X Dev builds e-commerce stores and the AI-run content systems that keep them posting, on-brand, every day."
+  },
+  "nav": {
+    "wordmark": "X Dev",
+    "backToStudio": "← Back to studio",
+    "langLabel": "Language"
+  },
+  "home": {
+    "meta": {
+      "title": "X Dev",
+      "description": "X Dev builds e-commerce stores and the AI-run content systems that keep them posting, on-brand, every day."
+    },
+    "status": "Open for new projects",
+    "h1Before": "We build the store. Then we build ",
+    "h1Em": "the thing that keeps it moving.",
+    "sub": "X Dev is a small studio for founders who don't have time to run their own marketing by hand. We design and build e-commerce stores end to end, then wire up the automated content systems that keep the brand posting, on-brand, every day — with nobody at a dashboard.",
+    "ctaStart": "Start a project",
+    "ctaShipped": "See what's shipped",
+    "services": {
+      "eyebrow": "What we build",
+      "heading": "Two ways to work together",
+      "module1": {
+        "tag": "MODULE 01",
+        "title": "Store Build",
+        "desc": "A full e-commerce store, designed and built from scratch — storefront, checkout, payments, and launch, ready for real customers on day one.",
+        "stackLabel": "STACK",
+        "stackValue": "Next.js · Medusa · Stripe",
+        "includesLabel": "INCLUDES",
+        "includesValue": "Design, storefront build, checkout, payment setup, launch QA",
+        "timelineLabel": "TIMELINE",
+        "timelineValue": "3–5 weeks",
+        "fromLabel": "FROM",
+        "fromValue": "$4,500"
+      },
+      "module2": {
+        "tag": "MODULE 02",
+        "title": "Automation Retainer",
+        "desc": "An on-brand character or voice, designed once and set to run — scheduled posts and fresh captions across platforms, without you touching a dashboard.",
+        "platformsLabel": "PLATFORMS",
+        "platformsValue": "Instagram · Threads · TikTok",
+        "includesLabel": "INCLUDES",
+        "includesValue": "Character/voice design, content system, scheduled posting, monthly refresh",
+        "cadenceLabel": "CADENCE",
+        "cadenceValue": "Daily posting, multi-platform",
+        "fromLabel": "FROM",
+        "fromValue": "$1,500/mo"
+      }
+    },
+    "case": {
+      "eyebrow": "Case study",
+      "name": "Snoutzzz",
+      "p1Before": "Snoutzzz is a pet-comfort store we designed, built, and launched from the ground up — storefront, checkout, and a brand mascot named Noodlez. It's a live, working store, not a mockup: ",
+      "visitLink": "visit snoutzzz.com ↗",
+      "p2": "After launch, we built the automation layer: a posting system that writes and publishes in Noodlez's voice every day, across two platforms, without anyone at a keyboard.",
+      "p3": "The store is newly live and still building its audience — everything below is what's actually shipped and running today, not a projection.",
+      "datasheetHead": "Build status",
+      "storefrontLabel": "STOREFRONT",
+      "storefrontValue": "Live & accepting orders",
+      "paymentsLabel": "PAYMENTS",
+      "paymentsValue": "Stripe, live",
+      "brandLabel": "BRAND",
+      "brandValue": "Custom logo & mascot",
+      "threadsLabel": "THREADS",
+      "threadsValue": "7 posts/day, automated",
+      "instagramLabel": "INSTAGRAM",
+      "instagramValue": "2 posts/day, automated"
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "heading": "Three steps, start to finish",
+      "step1": {
+        "title": "Discovery",
+        "desc": "A short call to scope the build or the retainer — what you need, what you already have, and what it'll take."
+      },
+      "step2": {
+        "title": "Build",
+        "desc": "Design and development with weekly check-ins, so nothing arrives as a surprise at the end."
+      },
+      "step3": {
+        "title": "Launch",
+        "desc": "The store goes live, or the automation goes live and starts posting — handed off, running on its own."
+      }
+    },
+    "footer": {
+      "line": "Have a store that needs building, or a brand that needs to show up every day without you?",
+      "cta": "Start a project",
+      "meta": "xstroughter@gmail.com · working across time zones"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Start a Project — X Dev",
+      "description": "Tell X Dev about your store or brand and start a project."
+    },
+    "businesses": {
+      "bakery": "Bakery",
+      "boutique": "Boutique",
+      "plantShop": "Plant Shop",
+      "studio": "Studio",
+      "cafe": "Café",
+      "workshop": "Workshop"
+    },
+    "motion": {
+      "status": "Every kind of business, one system",
+      "h1Before": "Let's start ",
+      "h1Em": "your",
+      "h1After": " project.",
+      "sub": "Bakers, boutiques, studios, plant shops — every kind of business we've worked with needed the same thing: a storefront and a presence that runs without them. Tell us about yours below."
+    },
+    "pitchLine": "Let us handle the digital footprint — the store, the socials, the upkeep — so you can spend your time on the craft you actually love.",
+    "form": {
+      "eyebrow": "Get in touch",
+      "heading": "Tell us about the project",
+      "name": "Name",
+      "phone": "Phone number",
+      "email": "Email",
+      "type": "Type of website",
+      "typeOptions": [
+        "E-commerce store",
+        "Portfolio / brand site",
+        "Booking / services site",
+        "Other"
+      ],
+      "selectPlaceholder": "Select one…",
+      "message": "Message",
+      "messagePlaceholder": "What are you building, and what do you need help with?",
+      "send": "Send message",
+      "sending": "Sending…",
+      "success": "Thanks — we'll be in touch soon.",
+      "errorGeneric": "Something went wrong. Please try again.",
+      "preferDirect": "Prefer to write directly?"
+    }
+  }
+}

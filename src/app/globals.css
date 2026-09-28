@@ -95,6 +95,26 @@ header.site {
   text-decoration: none;
   color: inherit;
 }
+.lang-switcher {
+  font-family: var(--font-mono), "SF Mono", ui-monospace, Menlo, monospace;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+}
+.lang-switcher a {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+.lang-switcher a:hover {
+  color: var(--accent);
+}
+.lang-switcher a.active {
+  color: var(--accent);
+}
+.lang-sep {
+  color: var(--line);
+  margin: 0 8px;
+}
+
 .header-contact,
 .back-link {
   font-family: var(--font-mono), "SF Mono", ui-monospace, Menlo, monospace;

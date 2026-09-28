@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "X Dev",
+    "description": "X Dev conçoit des boutiques en ligne et les systèmes de contenu pilotés par IA qui les font publier, fidèles à la marque, chaque jour."
+  },
+  "nav": {
+    "wordmark": "X Dev",
+    "backToStudio": "← Retour au studio",
+    "langLabel": "Langue"
+  },
+  "home": {
+    "meta": {
+      "title": "X Dev",
+      "description": "X Dev conçoit des boutiques en ligne et les systèmes de contenu pilotés par IA qui les font publier, fidèles à la marque, chaque jour."
+    },
+    "status": "Disponible pour de nouveaux projets",
+    "h1Before": "Nous construisons la boutique. Puis nous construisons ",
+    "h1Em": "ce qui la fait avancer.",
+    "sub": "X Dev est un petit studio pour les fondateurs qui n'ont pas le temps de gérer leur propre marketing. Nous concevons et construisons des boutiques en ligne de A à Z, puis nous mettons en place les systèmes de contenu automatisés qui font publier la marque, fidèle à son identité, chaque jour — sans que personne n'ait à surveiller un tableau de bord.",
+    "ctaStart": "Démarrer un projet",
+    "ctaShipped": "Voir ce qu'on a déjà livré",
+    "services": {
+      "eyebrow": "Ce que nous construisons",
+      "heading": "Deux façons de travailler ensemble",
+      "module1": {
+        "tag": "MODULE 01",
+        "title": "Construction de boutique",
+        "desc": "Une boutique en ligne complète, conçue et construite de zéro — vitrine, paiement, encaissement et mise en ligne, prête pour de vrais clients dès le premier jour.",
+        "stackLabel": "STACK",
+        "stackValue": "Next.js · Medusa · Stripe",
+        "includesLabel": "INCLUS",
+        "includesValue": "Design, construction de la vitrine, tunnel de paiement, configuration des encaissements, contrôle qualité avant lancement",
+        "timelineLabel": "DÉLAI",
+        "timelineValue": "3 à 5 semaines",
+        "fromLabel": "À PARTIR DE",
+        "fromValue": "4 500 $"
+      },
+      "module2": {
+        "tag": "MODULE 02",
+        "title": "Abonnement automatisation",
+        "desc": "Un personnage ou une voix fidèle à la marque, conçu une seule fois et programmé pour tourner seul — publications planifiées et légendes renouvelées sur plusieurs plateformes, sans que vous ayez à toucher un tableau de bord.",
+        "platformsLabel": "PLATEFORMES",
+        "platformsValue": "Instagram · Threads · TikTok",
+        "includesLabel": "INCLUS",
+        "includesValue": "Conception du personnage/de la voix, système de contenu, publication planifiée, actualisation mensuelle",
+        "cadenceLabel": "RYTHME",
+        "cadenceValue": "Publication quotidienne, multi-plateformes",
+        "fromLabel": "À PARTIR DE",
+        "fromValue": "1 500 $/mois"
+      }
+    },
+    "case": {
+      "eyebrow": "Étude de cas",
+      "name": "Snoutzzz",
+      "p1Before": "Snoutzzz est une boutique d'articles pour animaux que nous avons conçue, construite et lancée de zéro — vitrine, paiement, et une mascotte de marque nommée Noodlez. C'est une boutique réelle et fonctionnelle, pas une maquette : ",
+      "visitLink": "visiter snoutzzz.com ↗",
+      "p2": "Après le lancement, nous avons construit la couche d'automatisation : un système qui écrit et publie avec la voix de Noodlez chaque jour, sur deux plateformes, sans que personne n'ait à s'asseoir devant un clavier.",
+      "p3": "La boutique vient de se lancer et construit encore son audience — tout ce qui suit est réellement en ligne et fonctionne aujourd'hui, pas une projection.",
+      "datasheetHead": "État du projet",
+      "storefrontLabel": "VITRINE",
+      "storefrontValue": "En ligne et reçoit des commandes",
+      "paymentsLabel": "PAIEMENTS",
+      "paymentsValue": "Stripe, actif",
+      "brandLabel": "MARQUE",
+      "brandValue": "Logo et mascotte sur mesure",
+      "threadsLabel": "THREADS",
+      "threadsValue": "7 publications/jour, automatisé",
+      "instagramLabel": "INSTAGRAM",
+      "instagramValue": "2 publications/jour, automatisé"
+    },
+    "process": {
+      "eyebrow": "Comment ça marche",
+      "heading": "Trois étapes, du début à la fin",
+      "step1": {
+        "title": "Découverte",
+        "desc": "Un court appel pour cadrer la construction ou l'abonnement — ce dont vous avez besoin, ce que vous avez déjà, et ce qu'il faudra faire."
+      },
+      "step2": {
+        "title": "Construction",
+        "desc": "Design et développement avec un point hebdomadaire, pour qu'il n'y ait aucune surprise à la fin."
+      },
+      "step3": {
+        "title": "Lancement",
+        "desc": "La boutique passe en ligne, ou l'automatisation démarre et commence à publier — livrée, autonome."
+      }
+    },
+    "footer": {
+      "line": "Une boutique à construire, ou une marque qui doit être présente chaque jour sans vous ?",
+      "cta": "Démarrer un projet",
+      "meta": "xstroughter@gmail.com · en activité à travers les fuseaux horaires"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Démarrer un projet — X Dev",
+      "description": "Parlez à X Dev de votre boutique ou de votre marque et démarrez un projet."
+    },
+    "businesses": {
+      "bakery": "Boulangerie",
+      "boutique": "Boutique",
+      "plantShop": "Boutique de plantes",
+      "studio": "Studio",
+      "cafe": "Café",
+      "workshop": "Atelier"
+    },
+    "motion": {
+      "status": "Tous types de commerces, un seul système",
+      "h1Before": "Démarrons ",
+      "h1Em": "votre",
+      "h1After": " projet.",
+      "sub": "Boulangeries, boutiques, studios, boutiques de plantes — chaque commerce avec qui nous avons travaillé avait besoin de la même chose : une vitrine et une présence qui tourne sans lui. Parlez-nous du vôtre ci-dessous."
+    },
+    "pitchLine": "Laissez-nous gérer votre présence numérique — la boutique, les réseaux, l'entretien — pour que vous puissiez consacrer votre temps au métier que vous aimez vraiment.",
+    "form": {
+      "eyebrow": "Contactez-nous",
+      "heading": "Parlez-nous de votre projet",
+      "name": "Nom",
+      "phone": "Numéro de téléphone",
+      "email": "E-mail",
+      "type": "Type de site",
+      "typeOptions": [
+        "Boutique en ligne",
+        "Portfolio / site de marque",
+        "Site de réservation / services",
+        "Autre"
+      ],
+      "selectPlaceholder": "Choisissez une option…",
+      "message": "Message",
+      "messagePlaceholder": "Que construisez-vous, et pour quoi avez-vous besoin d'aide ?",
+      "send": "Envoyer le message",
+      "sending": "Envoi…",
+      "success": "Merci — nous vous recontacterons bientôt.",
+      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
+      "preferDirect": "Vous préférez écrire directement ?"
+    }
+  }
+}
