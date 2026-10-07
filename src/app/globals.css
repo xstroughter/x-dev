@@ -299,6 +299,9 @@ h2 {
 }
 
 /* ---------- case study ---------- */
+.case-divider {
+  margin-top: 56px;
+}
 .case {
   display: grid;
   grid-template-columns: 1.3fr 1fr;

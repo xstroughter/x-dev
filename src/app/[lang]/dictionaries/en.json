@@ -68,6 +68,23 @@
       "instagramLabel": "INSTAGRAM",
       "instagramValue": "2 posts/day, automated"
     },
+    "case2": {
+      "eyebrow": "Case study",
+      "name": "TheOhioGirl",
+      "p1Before": "TheOhioGirl is a portfolio and shop site for a Brooklyn muralist and painter — a Next.js build with an image-optimized gallery for her work and an integrated print shop. It's live now: ",
+      "visitLink": "visit ericaham.com ↗",
+      "p2": "Artwork is served through Vercel blob storage so the gallery loads fast across devices, from mobile browsing to full-screen desktop viewing.",
+      "p3": "Gallery, shop, and contact all live in one place — no separate platforms to manage.",
+      "datasheetHead": "Build status",
+      "galleryLabel": "GALLERY",
+      "galleryValue": "Image-optimized, live",
+      "shopLabel": "SHOP",
+      "shopValue": "Threadless integration, live",
+      "hostingLabel": "HOSTING",
+      "hostingValue": "Vercel blob storage",
+      "socialLabel": "SOCIAL",
+      "socialValue": "Instagram linked"
+    },
     "process": {
       "eyebrow": "How it works",
       "heading": "Three steps, start to finish",

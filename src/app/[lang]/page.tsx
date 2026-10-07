@@ -143,6 +143,45 @@ export default async function Home({ params }: PageProps<"/[lang]">) {
                 </div>
               </div>
             </div>
+
+            <p className="eyebrow case-divider">{t.case2.eyebrow}</p>
+            <div className="case">
+              <div className="case-copy">
+                <h2 className="case-name">{t.case2.name}</h2>
+                <p>
+                  {t.case2.p1Before}
+                  <a
+                    className="case-visit"
+                    href="https://www.ericaham.com"
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    {t.case2.visitLink}
+                  </a>
+                </p>
+                <p>{t.case2.p2}</p>
+                <p className="muted">{t.case2.p3}</p>
+              </div>
+              <div className="datasheet">
+                <div className="datasheet-head">{t.case2.datasheetHead}</div>
+                <div className="ds-row">
+                  <div className="k">{t.case2.galleryLabel}</div>
+                  <div className="v ds-live">{t.case2.galleryValue}</div>
+                </div>
+                <div className="ds-row">
+                  <div className="k">{t.case2.shopLabel}</div>
+                  <div className="v ds-live">{t.case2.shopValue}</div>
+                </div>
+                <div className="ds-row">
+                  <div className="k">{t.case2.hostingLabel}</div>
+                  <div className="v">{t.case2.hostingValue}</div>
+                </div>
+                <div className="ds-row">
+                  <div className="k">{t.case2.socialLabel}</div>
+                  <div className="v ds-live">{t.case2.socialValue}</div>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
 
